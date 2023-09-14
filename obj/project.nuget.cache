@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ScgJcai5FGVe98wizjblUOGpMJGsbPnO/FD76exUed07XA5JAZE0fpYj8c7ZUX0IjGPu5Vt2B7rpw49YuWz5nw==",
+  "success": true,
+  "projectFilePath": "D:\\MYSQL\\Phase-4\\Day-5\\WebAppUsers\\WebAppUsers\\WebAppUsers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lovel\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512",
+    "C:\\Users\\lovel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\lovel\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\lovel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\lovel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
